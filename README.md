@@ -37,3 +37,7 @@ AirZRar is a tool created to perform brute force attacks on passwords of Rar and
 
 > [@C0MPL3XDEV](https://github.com/C0MPL3XDEV)
 > Discord: C0MPL3X#6285
+
+
+# License
+This software is distributed under the GNU General Public License v2.0 so for any reuse the terms of that license will apply
