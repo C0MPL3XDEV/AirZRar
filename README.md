@@ -33,7 +33,7 @@ AirZRar is a tool created to perform brute force attacks on passwords of Rar and
 # Contributors
 
 > [@JProgrammer-it](https://github.com/JProgrammer-it)
-> Discord: reyz#5224
+> Discord: lyar#5224
 
 > [@C0MPL3XDEV](https://github.com/C0MPL3XDEV)
 > Discord: C0MPL3X#6285

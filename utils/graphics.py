@@ -1,5 +1,5 @@
 import platform, shutil, os
-from colorama import Fore
+from colorama import Fore, Back, Style
 import colorama
 colorama.init(autoreset=True)
 
